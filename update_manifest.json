@@ -1,6 +1,6 @@
 {
-  "version": "0.9.4",
-  "download_url": "https://raw.githubusercontent.com/praporgameshow-png/AIDA-Music-Orders-Updates/main/AIDA_Music_Orders_v0.9.4_UPDATE.zip",
-  "sha256": "6d45ba480e2d63b164962ef72ca76fef84512b86c6a9865b713b52088100b3e4",
-  "notes": "Тест автообновления AIDA Music Orders 0.9.3.1 → 0.9.4 через новый AIDA Updater.exe. Проверяем автоматическую замену файлов и перезапуск программы."
+  "version": "0.9.5",
+  "download_url": "https://raw.githubusercontent.com/praporgameshow-png/AIDA-Music-Orders-Updates/main/AIDA_Music_Orders_v0.9.5_UPDATE.zip",
+  "sha256": "ba448be6851004482824c452ea54289e50fb008a6ea5677b896821af6c458441",
+  "notes": "Контрольный тест автообновления AIDA Music Orders 0.9.4 → 0.9.5 через новый AIDA Updater.exe. Проверяем ожидание освобождения EXE, замену файлов и автоматический перезапуск программы."
 }
