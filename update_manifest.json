@@ -1,6 +1,6 @@
 {
   "version": "1.0.2",
   "download_url": "https://raw.githubusercontent.com/praporgameshow-png/AIDA-Music-Orders-Updates/main/AIDA_Music_Orders_v1.0.2_UPDATE.zip",
-  "sha256": "1a3dd8b5da74ac3e9615476368ddb93e04c6cba254e72cb6bbadf2430d1b49c5",
+  "sha256": "f94eef922f2946ce0270677fe861e8bdd6647e4e0c9b318459a71486b0e32b4a",
   "notes": "AIDA Music Orders 1.0.2 — стабильная коммерческая версия. Готовый импорт Streamer.bot + MiniChat для VK Video Live, без ручной вставки C#. Пользовательские данные и лицензия сохраняются при обновлении."
 }
