@@ -1,6 +1,6 @@
 {
   "version": "1.0.3",
   "download_url": "https://github.com/praporgameshow-png/AIDA-Music-Orders-Updates/releases/download/v1.0.3/AIDA_Music_Orders_v1.0.3_UPDATE.zip",
-  "sha256": "9df999b4655f5b3427875c19a98c8ea7145fdf053d1bbae87879bdc3d6bc318",
+  "sha256": "9df9999b4655f5b3427875c19a98c8ea7145fdf053d1bbae87879bdc3d6bc318",
   "notes": "AIDA Music Orders 1.0.3 FINAL — рабочая единая схема OWNER/CUSTOMER/UPDATE. YouTube: PO Token HTTP и exact-ID LOCAL fallback после ошибки встроенного плеера. VK Video: FAST-путь с fallback через FFmpeg. Пробный период CUSTOMER — 48 часов. Пользовательские данные и лицензия сохраняются при обновлении."
 }
